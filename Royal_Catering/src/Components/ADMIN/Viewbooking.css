@@ -1,0 +1,20 @@
+.view-Booking{
+    width: 100%;
+    border-radius: 30px;
+}
+.Add-Event{
+    padding: 30px;
+    width: 100%;
+    min-height: 500px;
+    border-radius: 30px;
+}
+.low{
+    margin-top: 4%;
+}
+.replyedd{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(19, 74, 5);
+    color: rgb(255, 255, 255);
+
+}
